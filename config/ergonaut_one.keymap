@@ -31,7 +31,7 @@
         };
 
         gaming_ajust {
-            if-layers = <5 6>;
+            if-layers = <5 6 4>;
             then-layer = <3>;
         };
     };
@@ -104,7 +104,7 @@
 
         gaming_raise {
             bindings = <
-&trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans          &trans  &trans  &trans  &tog 4  &tog 4  &trans  &trans  &trans  &trans  &trans
 &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &steam_overlay  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                 &trans  &trans  &trans  &trans  &trans  &trans
