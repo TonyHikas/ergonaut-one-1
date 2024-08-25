@@ -97,7 +97,7 @@
             >;
         };
 
-        gamin_raise {
+        gaming_raise {
             bindings = <
 &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
