@@ -25,7 +25,7 @@
             then-layer = <5>;
         };
 
-        gamin_raise {
+        gaming_raise {
             if-layers = <4 2>;
             then-layer = <6>;
         };
