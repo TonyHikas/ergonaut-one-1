@@ -24,6 +24,11 @@
             if-layers = <4 1>;
             then-layer = <5>;
         };
+
+        gamin_raise {
+            if-layers = <4>;
+            then-layer = <2>;
+        };
     };
 
     macros {
