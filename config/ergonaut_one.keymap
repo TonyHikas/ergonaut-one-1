@@ -26,8 +26,8 @@
         };
 
         gamin_raise {
-            if-layers = <4>;
-            then-layer = <2>;
+            if-layers = <4 2>;
+            then-layer = <6>;
         };
     };
 
